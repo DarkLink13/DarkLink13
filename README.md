@@ -12,4 +12,20 @@
   - :telephone receiver: [Phone](tel:+18094936290)
   - :e-mail: [Email](mailto:darklink1302@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/jorgeamadohernandez/)
- - :zap: Skills: 
+- :zap: Skills: 
+ - :framed picture: FrontEnd: AngularJS, Angular2+, Knockout.JS, Vue.js, Nuxt, Nuxt3, React
+ - :gear: Backend: ASP.NET, NodeJS, Express, NestJS, Nx, Django
+ - :construction worker: Generic: PostgreSQL, Jenkins, Docker, Git, NGinx
+ - 🖌️: Graphic Designer: Adobe Photoshop, Autodesk 3ds Max, Inkscape
+ - :zap: Algorithms Developer: Data Structures, Dynamic Programming, Graph Theory, Number Theory, GameTheory.
+- :graduation cap: Certifications:
+  - Hackerrank: 
+    - [Node Basic](https://www.hackerrank.com/certificates/e2f6e0262fbd)
+    - [Problem Solving](https://www.hackerrank.com/certificates/b54e92826714)
+    - [Javascript Basic](https://www.hackerrank.com/certificates/757933f8c987)
+    - [Angular Intermediate](https://www.hackerrank.com/certificates/79dae210a5c7)
+    - [Python Basic](https://www.hackerrank.com/certificates/f4b6eac84565)
+ 
+ [![DarkLink's github stats](https://github-readme-stats.vercel.app/api?username=darklink13&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/darklink13/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklink13)](https://github.com/darklink13/github-readme-stats)
