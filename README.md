@@ -13,11 +13,11 @@
   - 📧 [Email](mailto:darklink1302@gmail.com)
   - 🏢 [LinkedIn](https://www.linkedin.com/in/jorgeamadohernandez/)
 - :zap: Skills: 
- - 🖼️picture: FrontEnd: AngularJS, Angular2+, Knockout.JS, Vue.js, Nuxt, Nuxt3, React
- - ⚙️ Backend: ASP.NET, NodeJS, Express, NestJS, Nx, Django
- - 👷 Generic: PostgreSQL, Jenkins, Docker, Git, NGinx
- - 🖌️ Graphic Designer: Adobe Photoshop, Autodesk 3ds Max, Inkscape
- - :zap: Algorithms Developer: Data Structures, Dynamic Programming, Graph Theory, Number Theory, GameTheory.
+  - 🖼️picture: FrontEnd: AngularJS, Angular2+, Knockout.JS, Vue.js, Nuxt, Nuxt3, React
+  - ⚙️ Backend: ASP.NET, NodeJS, Express, NestJS, Nx, Django
+  - 👷 Generic: PostgreSQL, Jenkins, Docker, Git, NGinx
+  - 🖌️ Graphic Designer: Adobe Photoshop, Autodesk 3ds Max, Inkscape
+  - :zap: Algorithms Developer: Data Structures, Dynamic Programming, Graph Theory, Number Theory, GameTheory.
 - ✔️ Certifications:
   - Hackerrank: 
     - [Node Basic](https://www.hackerrank.com/certificates/e2f6e0262fbd)
