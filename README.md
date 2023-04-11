@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :heart: Here is a quick view of my main likes
-  - ⚽ Socccer, :flag: spain: Barcelona FC, :flag: brazil: Brazil FC
-  - 🎵 Music, :love-you gesture: Rock, :level slider: Electronic, :microphone: Rap
+  - ⚽ Socccer, 🇪🇸 Barcelona FC, 🇧🇷 Brazil FC
+  - 🎵 Music, 🤟 Rock, 🎚️ Electronic, 🎤 Rap
   - 🖌️ Like drawing and painting, since I was a child I was in drawing and painting schools, I participated in competitions and exhibitions. When I grew up I changed this hobby to my love of graphic design, but I still really enjoy painting.
   - 🦾 I really like to exercise, I do strength exercises 6 times a week and I do walking cardio 2-3 times a week.
   - 🎮 These are the main games that I like, The Legend of Zelda, Resident Evil, DarkSiders.
@@ -13,7 +13,7 @@
   - 📧 [Email](mailto:darklink1302@gmail.com)
   - 🏢 [LinkedIn](https://www.linkedin.com/in/jorgeamadohernandez/)
 - :zap: Skills: 
-  - 🖼️picture: FrontEnd: AngularJS, Angular2+, Knockout.JS, Vue.js, Nuxt, Nuxt3, React
+  - 🖼️ FrontEnd: AngularJS, Angular2+, Knockout.JS, Vue.js, Nuxt, Nuxt3, React
   - ⚙️ Backend: ASP.NET, NodeJS, Express, NestJS, Nx, Django
   - 👷 Generic: PostgreSQL, Jenkins, Docker, Git, NGinx
   - 🖌️ Graphic Designer: Adobe Photoshop, Autodesk 3ds Max, Inkscape
